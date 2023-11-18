@@ -27,3 +27,5 @@ Skills: REACT / JS / HTML / CSS/Java
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamim44)  
 
 ![Profile views](https://gpvc.arturio.dev/hamim44)  
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
