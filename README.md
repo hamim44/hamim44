@@ -6,7 +6,7 @@ I am a graduate of AIUB. I am an experienced software developer with proficiency
 Skills: REACT / JS / HTML / CSS/Java
 
 - 🔭 I’m currently working on Software Development 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning IOS
 - 👯 I’m looking to collaborate on github 
 
 
@@ -26,6 +26,6 @@ Skills: REACT / JS / HTML / CSS/Java
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamim44)  
 
-![Profile views](https://gpvc.arturio.dev/hamim44)  
+![](https://komarev.com/ghpvc/?hamim44)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
