@@ -22,7 +22,6 @@ I am a graduate of AIUB. I am an experienced software developer with proficiency
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamim44) 
 
 
-
-![](https://komarev.com/ghpvc/?hamim44)
+![](https://komarev.com/ghpvc/?username=hamim44)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
