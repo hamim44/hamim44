@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is  Md. Abrar Hamim
 #### Software Developer
 
-I am a graduate of AIUB. I am an experienced software developer with proficiency in React, iOS, and MySQL. My problem-solving skills in C++ have been recognized on the Leetcode platform. I have demonstrated this by creating the QuickRent project, which was a challenging but rewarding project that allowed me to apply my knowledge in a practical way.
+I am a graduate of AIUB. I am an experienced software developer with proficiency in React, iOS,RESTFUL API. My problem-solving skills in C++ have been recognized on the Leetcode platform. I have demonstrated this by creating the QuickRent project, which was a challenging but rewarding project that allowed me to apply my knowledge in a practical way.
 
 - 🔭 I’m currently working on Software Development 
 - 🌱 I’m currently learning IOS
